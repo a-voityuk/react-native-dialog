@@ -1,6 +1,6 @@
 {
   "name": "react-native-dialog",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "a dialog support react native ios android",
   "main": "index.js",
   "scripts": {
@@ -23,8 +23,4 @@
     "url": "https://github.com/honaf/react-native-dialog/issues"
   },
   "homepage": "https://github.com/honaf/react-native-dialog#readme",
-  "readme": "ERROR: No README data found!",
-  "_id": "react-native-dialog@1.0.8",
-  "_shasum": "ec701aeb5abc8679ec4ce2d07de8bcc73958355d",
-  "_from": "react-native-dialog@*"
 }
